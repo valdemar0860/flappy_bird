@@ -111,5 +111,3 @@ while game:
             game = False
     if bird.rect.y > 500 or bird.rect.y < 0:
         game= False  
-
-print("hello world!")
